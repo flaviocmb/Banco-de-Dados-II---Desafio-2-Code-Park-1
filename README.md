@@ -18,7 +18,7 @@ Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilh
 
 ![Resolução05](./img/5.png)
 
-###Imagem de um banco de dados real
+### Imagem de um banco de dados real
 Observação: aparentemente o PostgreSQL não permite uma procedure "SELECT quantidade FROM vendas" pois não há referência
 de destino. Portanto é necessário criar(declarar) uma variável e definir um loop.
 
